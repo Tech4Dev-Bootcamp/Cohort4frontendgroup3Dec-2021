@@ -1,0 +1,50 @@
+
+
+Bootcamp Project Report - Cohort 4
+Hello Class Reps,
+Kindly provide detailed information on your Group projects for the panelist ahead of your Demo Day.
+The tentative date from Wednesday, 15th- Friday, 17th December 2021.
+While filling this form, be honest, be sincere, be you!
+
+Required
+
+1.Name of Learning Track
+Software Development
+
+
+2.Full name of Group Leader
+Mbonu Jennifer
+
+
+3.Name of Group
+Tech Phantoms
+
+
+4.Brief description of the Group Project and the Sustainable Development Goal addressed
+A platform where women in Africa in the prenatal phase can have access to quality healthcare service anytime, every time and anywhere, everywhere.​
+Project addresses SDGs Goal 3: Good Health & Wellbeing
+A safe and healthy birth for mother and child - Childbirth can be pretty dangerous! With professional support, the risk of death or complications is minimised.
+
+
+5.List out the tools used and steps taken to implement your project
+1) Free CSS templates: https://www.free-css.com/free-css-templates
+2) Visual Studio Code and Live Server Extension for VS Code
+3) Git and GitHub
+4) Microsoft Powerpoint & Word
+
+
+6.List active group members and a description of the task assigned to each
+1) Mbonu Jennifer - Setting up & Facilitating group meetings | Following up with individual team members on task progress | Reviewing content on all pages | Design of Home page
+2) Joyce Adenike Idowu - Design of Home page
+3) Noimot Alabi Abiodun - Design of About page
+4) Opeyemi Omotayo - Design of Events page
+5) Jessica Joseph - Design of Contact page
+6) Hamdia Abdulai - Content creation
+7) Taiye Funmilola Kadiri - Design of Powerpoint presentation | Editing content/code on all pages
+8) Margaret Okore - Integration of all pages | Editing content/code on all pages | GitHub Page hosting
+9) Mbonu Jennifer + Taiye Funmilola Kadiri - Demo Day presentation
+
+
+7.Link to your project work (Note: This only applies to the Product Design, Software Development, and Data Science Track. The Cybersecurity and Product Management group leaders are to send a folder containing the project work to wtbootcamp@tech4dev.com).
+https://github.com/Tech4Dev-Bootcamp/Cohort4frontendgroup3Dec-2021
+
